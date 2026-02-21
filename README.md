@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @irldoodle
-- 👀 I’m interested in Game Development, currently in the final quarter of my degree program
+- 👋 Hi, I’m Mitchel, aka doodleman212/irldoodle
+- 👀 I’m interested in Game Development, I have an Associate's Degree in Game Programming and am currently pursuing a Bachelor's in Software Engineering
 - 🌱 I’m currently learning development in Unity, Unreal, and HTML5 + JavaScript
-- 💞️ I’m looking to collaborate on RPG Development Projects
-- 📫 How to reach me instagram DMs @doodleman212
+- 💞️ I’m looking to collaborate on RPG or Arcade-Style Development Projects as a Systems Designer/Engineer
+- 📫 How to reach me via email: mcreinthaler@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
